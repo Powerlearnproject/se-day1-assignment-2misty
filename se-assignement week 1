@@ -1,0 +1,39 @@
+# part1 -introduction to software engineering
+software engineering is a branch of computer science that deals with design, development, testing and maintenance of software applications
+importane o software engineering : help manage and simplify complex projects, following the structured engineering principles , sofware engineers canminimize costs, proper engineering practices help manage time
+
+key milesstone in the evolution: the birth  of software engineeering (1968) the termsoftware engineering was coined during the NATO software engineering conference, introductuion of object oriented programming(1980) which revolutionised software design and dev, agile methodologies   emergeged as a response to the limitationof waterfall
+
+Agile is an iterative and incremental approach, i.e developing a mobile app where user feedback is continually incorporated to improve the product while waterfall is a linear and sequential approach to project management,i.eDeveloping a medical device where each phase must meet stringent regulatory standards before moving to the next.
+
+software developer roles ; coding,  design, debugging
+quality assuarance roles ; testing, bug tracking, automation
+project manager roles ; planning, communication, risk management
+
+importance of intergrated development has feature like code completion that helps reduce coding erorrs and improve code quality e.g visual studio, android studio
+imprtance of version control - allows multiple developers to work on same project simultaneously e.g git , subversion
+
+common challenges and how to overcome 
+rapid advancement - continous learning
+colaboration and communication - regular meeting, colaboration tools
+limited resources -outsourcing
+
+types of testing and importance
+unit testing- testing individual compents of codes such as functioms - early bug detection
+intergration testing - focuses on veifying  the interactions  between  different units 
+system testing - validates the entire system
+acceptance testing - ensures requirement fulfilment
+
+prompt engineering is the process of designing and refining prompts to guide generative ai
+ importance of prompt engineering
+-enhances user interaction
+-bridges gap between human and ai
+reduces bias and erors
+
+vague ' write about technology'
+improved ' write an article on the impact of ai in healthcare, focusing on recent advancement in diagnostic tools.
+ the improves prompt specifies the topic and area of focus.
+is clear by stating  what aspect of tecnology to cover
+is concise  yet detailed to guide the ai effectively
+
+
